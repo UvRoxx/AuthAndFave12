@@ -1,0 +1,2 @@
+# LeapsaverNearMeManager
+Location Manager Leapsaver
